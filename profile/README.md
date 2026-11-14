@@ -1,16 +1,71 @@
-<img src="https://raw.githubusercontent.com/silexhub/silexhub/main/assets/symbol.svg" width="64" height="64" alt="SilexHub logo" />
+<div align="center">
+  <a href="https://github.com/silexhub/silexhub">
+    <img src="https://raw.githubusercontent.com/silexhub/silexhub/main/assets/symbol.svg" width="88" height="88" alt="SilexHub" />
+  </a>
+  <h1>SilexHub</h1>
+  <p><strong>Tools, data, and software connections for AI agents.</strong></p>
+  <p>Give your agent a useful capability. Get a result you can use.</p>
+  <p>给 AI Agent 提供工具、数据和软件连接。</p>
+  <p>
+    <a href="https://github.com/silexhub/silexhub">Developer hub</a> ·
+    <a href="https://github.com/silexhub/silexhub/blob/main/README.zh-CN.md">简体中文</a> ·
+    <a href="https://github.com/silexhub/silexhub/issues/new">Request a capability</a> ·
+    <a href="https://silexhub.com">Website</a>
+  </p>
+  <p>
+    <a href="#availability"><img src="https://img.shields.io/badge/Stage-In_development-E65B31?style=flat-square" alt="Stage: in development" /></a>
+    <a href="https://github.com/silexhub/silexhub/blob/main/README.zh-CN.md"><img src="https://img.shields.io/badge/Readme-English_%2F_中文-555?style=flat-square" alt="Readme: English and Chinese" /></a>
+  </p>
+</div>
 
-# SilexHub
+---
 
-**Tools, data, and software connections for AI agents.**
+SilexHub is building a home for practical capabilities that people and AI agents can use in their workflows: **run a tool, work with data, or connect to software**.
 
-We are building external capabilities that people and AI agents can use in real workflows: complete a task, retrieve structured information, or connect to software with clear inputs and useful results.
+We focus on the task between steps: clear inputs, a defined scope, and a usable result. People choose what to use and authorize access; agents use capabilities within that scope.
 
-### Start here
+## What we're building
 
-- [Official developer hub](https://github.com/silexhub/silexhub) — product overview, public integration updates and developer resources.
-- [中文介绍](https://github.com/silexhub/silexhub/blob/main/README.zh-CN.md)
-- [Questions and documentation feedback](https://github.com/silexhub/silexhub/issues)
-- [Product domain](https://silexhub.com) — public service coming later.
+<table>
+  <tr>
+    <th align="left">Tools</th>
+    <th align="left">Data</th>
+    <th align="left">Software connections</th>
+  </tr>
+  <tr>
+    <td>Transform, check, compare, or produce an artifact from a defined input.</td>
+    <td>Bring structured information, datasets, and knowledge assets into a task.</td>
+    <td>Use authorized software actions as part of a larger workflow.</td>
+  </tr>
+  <tr>
+    <td><strong>工具：</strong>完成任务，交付结果。</td>
+    <td><strong>数据：</strong>明确来源、范围和版本。</td>
+    <td><strong>连接：</strong>授权动作，衔接软件。</td>
+  </tr>
+</table>
 
-SilexHub is in early development. Released integrations and availability will be listed in the developer hub.
+These are our product directions. Supported formats, access methods, and limits will be documented with each released capability.
+
+## Explore SilexHub
+
+| Start here | What you'll find |
+| --- | --- |
+| [Official developer hub](https://github.com/silexhub/silexhub) | Product overview, workflow scenarios, availability, and published integration resources |
+| [中文介绍](https://github.com/silexhub/silexhub/blob/main/README.zh-CN.md) | 产品定位、能力方向、使用流程和当前可用状态 |
+| [Questions & capability requests](https://github.com/silexhub/silexhub/issues) | Public product questions, concrete workflow needs, and documentation feedback |
+
+Have a job in mind? [Tell us the task](https://github.com/silexhub/silexhub/issues/new), the input you can provide, and the result you need. Use a small synthetic example and keep credentials and confidential data out of public issues.
+
+## Availability
+
+**Early development.** The product overview and public feedback channel are available. A production capability catalog, public API, MCP endpoint, and installable SDK have not been released.
+
+Watch the [developer hub](https://github.com/silexhub/silexhub) for published updates. Verified integration links and quick starts will be added there as they become available. Our product domain is [silexhub.com](https://silexhub.com).
+
+---
+
+<div align="center">
+  <strong>SilexHub</strong><br />
+  Tools. Data. Software connections.<br />
+  工具 · 数据 · 软件连接
+</div>
