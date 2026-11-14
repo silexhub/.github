@@ -8,6 +8,8 @@
   <p>给 AI Agent 提供工具、数据和软件连接。</p>
   <p>
     <a href="https://github.com/silexhub/silexhub">Developer hub</a> ·
+    <a href="https://github.com/silexhub/docs">Docs</a> ·
+    <a href="https://github.com/silexhub/mcp-server">MCP</a> ·
     <a href="https://github.com/silexhub/silexhub/blob/main/README.zh-CN.md">简体中文</a> ·
     <a href="https://github.com/silexhub/silexhub/issues/new">Request a capability</a> ·
     <a href="https://silexhub.com">Website</a>
@@ -51,6 +53,8 @@ These are our product directions. Supported formats, access methods, and limits 
 | Start here | What you'll find |
 | --- | --- |
 | [Official developer hub](https://github.com/silexhub/silexhub) | Product overview, workflow scenarios, availability, and published integration resources |
+| [Documentation](https://github.com/silexhub/docs) | Getting started, capability concepts, workflow guidance, and availability |
+| [MCP integration](https://github.com/silexhub/mcp-server) | Connection guidance, capability contracts, and release requirements |
 | [中文介绍](https://github.com/silexhub/silexhub/blob/main/README.zh-CN.md) | 产品定位、能力方向、使用流程和当前可用状态 |
 | [Questions & capability requests](https://github.com/silexhub/silexhub/issues) | Public product questions, concrete workflow needs, and documentation feedback |
 
@@ -58,7 +62,7 @@ Have a job in mind? [Tell us the task](https://github.com/silexhub/silexhub/issu
 
 ## Availability
 
-**Early development.** The product overview and public feedback channel are available. A production capability catalog, public API, MCP endpoint, and installable SDK have not been released.
+**Early development.** The product overview, documentation, MCP integration materials, and public feedback channel are available. A production capability catalog, public API, MCP endpoint, and installable SDK have not been released.
 
 Watch the [developer hub](https://github.com/silexhub/silexhub) for published updates. Verified integration links and quick starts will be added there as they become available. Our product domain is [silexhub.com](https://silexhub.com).
 
