@@ -62,9 +62,11 @@ Have a job in mind? [Tell us the task](https://github.com/silexhub/silexhub/issu
 
 ## Availability
 
-**Early development.** The product overview, documentation, MCP integration materials, and public feedback channel are available. A production capability catalog, public API, MCP endpoint, and installable SDK have not been released.
+The [website](https://silexhub.com/en) is available in English and Chinese, with [articles](https://silexhub.com/en/articles), [product guides](https://silexhub.com/en/docs), a [read-only workspace demo](https://silexhub.com/en/demo), and [GitHub/Google sign-in](https://silexhub.com/en/login). The demo uses synthetic examples and requires no account.
 
-Watch the [developer hub](https://github.com/silexhub/silexhub) for published updates. Verified integration links and quick starts will be added there as they become available. Our product domain is [silexhub.com](https://silexhub.com).
+Paid capabilities, the public API, MCP service, and installable SDK have not been released. The public repositories provide product and integration documentation.
+
+Watch the [developer hub](https://github.com/silexhub/silexhub) for verified capability releases and runnable integration quick starts.
 
 ---
 
