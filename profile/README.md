@@ -62,7 +62,7 @@ Have a job in mind? [Tell us the task](https://github.com/silexhub/silexhub/issu
 
 ## Availability
 
-The [website](https://silexhub.com/en) is available in English and Chinese, with [articles](https://silexhub.com/en/articles), [product guides](https://silexhub.com/en/docs), a [read-only workspace demo](https://silexhub.com/en/demo), and [GitHub/Google sign-in](https://silexhub.com/en/login). The demo uses synthetic examples and requires no account.
+The [website](https://silexhub.com/en) is available in English and Chinese, with [articles](https://silexhub.com/en/articles), [product guides](https://silexhub.com/en/docs), and a [read-only workspace demo](https://silexhub.com/en/demo). The demo uses synthetic examples and requires no account. Accounts and checkout remain in development.
 
 Paid capabilities, the public API, MCP service, and installable SDK have not been released. The public repositories provide product and integration documentation.
 
