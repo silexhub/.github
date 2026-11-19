@@ -3,9 +3,9 @@
     <img src="https://raw.githubusercontent.com/silexhub/silexhub/main/assets/symbol.svg" width="88" height="88" alt="SilexHub" />
   </a>
   <h1>SilexHub</h1>
-  <p><strong>Tools, data, and software connections for AI agents.</strong></p>
-  <p>Give your agent a useful capability. Get a result you can use.</p>
-  <p>给 AI Agent 提供工具、数据和软件连接。</p>
+  <p><strong>Professional tools and data for AI</strong></p>
+  <p>Bring traceable data, domain knowledge, and specialist tools into the AI you already use.</p>
+  <p>给 AI 用的专业工具与数据</p>
   <p>
     <a href="https://github.com/silexhub/silexhub">Developer hub</a> ·
     <a href="https://github.com/silexhub/docs">Docs</a> ·
@@ -22,7 +22,7 @@
 
 ---
 
-SilexHub is building a home for practical capabilities that people and AI agents can use in their workflows: **run a tool, work with data, or connect to software**.
+Our first product preview covers geographic revenue for U.S.-listed semiconductor companies. See the [NVIDIA data sample](https://silexhub-prelaunch.1255829396.workers.dev/en/).
 
 We focus on the task between steps: clear inputs, a defined scope, and a usable result. People choose what to use and authorize access; agents use capabilities within that scope.
 
